@@ -117,6 +117,8 @@ Github, unfortunately, will not display html files properly.
 run.
 - The structure of the [all.plots](vignettes/all-plots.Rmd) object, to enable fine-tuning of
 ARNAQ's plots.
+- Testing markdown in github pages [all.plots](vignettes/readme.md) object, to enable fine-tuning of
+ARNAQ's plots.
 
 ## Example reports
 
